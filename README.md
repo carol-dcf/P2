@@ -1,8 +1,8 @@
 # P2
 ## P2 of SCAV subject
-In this project you can see applied some functionalities of the ffmpeg software into the BBB video. All the functions can be applied to any other video if the input_path is changed in the main.py file.
+In this project you can see applied some functionalities of the ffmpeg software into the BBB video. All the functions can be applied to any other video if the input_path is changed in the *main.py* file.
 
-To run the program, run the main.py and a fully interactive menu will appear. There, you can navigate trough the different proposed exercises.
+To run the program, run the *main.py* and a fully interactive menu will appear. There, you can navigate trough the different proposed exercises.
 
 Instructions are reaaly clear once you are running the files, however, here's a quick guide on how to use it.
 
